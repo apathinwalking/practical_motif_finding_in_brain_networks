@@ -1,0 +1,193 @@
+\begin{thebibliography}{10}
+
+\bibitem{alon07}
+Uri Alon.
+\newblock Network motifs: theory and experimental approaches.
+\newblock {\em Nature Reviews Genetics}, 8(6):450--461, 2007.
+
+\bibitem{biswal2010}
+Bharat~B Biswal, Maarten Mennes, Xi-Nian Zuo, Suril Gohel, Clare Kelly, Steve~M
+  Smith, Christian~F Beckmann, Jonathan~S Adelstein, Randy~L Buckner, Stan
+  Colcombe, et~al.
+\newblock Toward discovery science of human brain function.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  107(10):4734--4739, 2010.
+
+\bibitem{bullmore09}
+Ed~Bullmore and Olaf Sporns.
+\newblock Complex brain networks: graph theoretical analysis of structural and
+  functional systems.
+\newblock {\em Nature Reviews Neuroscience}, 10(3):186--198, 2009.
+
+\bibitem{darga04}
+Paul~T Darga, Mark~H Liffiton, Karem~A Sakallah, and Igor~L Markov.
+\newblock Exploiting structure in symmetry detection for cnf.
+\newblock In {\em Proceedings of the 41st annual Design Automation Conference},
+  pages 530--534. ACM, 2004.
+
+\bibitem{deuker09}
+Lorena Deuker, Edward~T Bullmore, Marie Smith, Soren Christensen, Pradeep~J
+  Nathan, Brigitte Rockstroh, Danielle~S Bassett, et~al.
+\newblock Reproducibility of graph metrics of human brain functional networks.
+\newblock {\em Neuroimage}, 47(4):1460--1468, 2009.
+
+\bibitem{echtermeyer11}
+Christoph Echtermeyer, Luciano da~Fontoura~Costa, Francisco~A Rodrigues, and
+  Marcus Kaiser.
+\newblock Automatic network fingerprinting through single-node motifs.
+\newblock {\em PloS one}, 6(1):e15765, 2011.
+
+\bibitem{friston93}
+KJ~Friston, CD~Frith, PF~Liddle, RSJ Frackowiak, et~al.
+\newblock Functional connectivity: the principal-component analysis of large
+  (pet) data sets.
+\newblock {\em Journal of cerebral blood flow and metabolism}, 13:5--5, 1993.
+
+\bibitem{hartke09}
+Stephen~G Hartke and AJ~Radcliffe.
+\newblock Mckay’s canonical graph labeling algorithm.
+\newblock {\em Communicating Mathematics}, 479:99--111, 2009.
+
+\bibitem{iturria07}
+Y~Iturria-Medina, EJ~Canales-Rodriguez, L~Melie-Garcia, PA~Valdes-Hernandez,
+  E~Martinez-Montes, Y~Aleman-Gomez, and JM~S{\'a}nchez-Bornot.
+\newblock Characterizing brain anatomical connections using diffusion weighted
+  mri and graph theory.
+\newblock {\em Neuroimage}, 36(3):645--660, 2007.
+
+\bibitem{iturria08}
+Yasser Iturria-Medina, Roberto~C Sotero, Erick~J Canales-Rodr{\'\i}guez, Yasser
+  Alem{\'a}n-G{\'o}mez, Lester Melie-Garc{\'\i}a, et~al.
+\newblock Studying the human brain anatomical network via diffusion-weighted
+  mri and graph theory.
+\newblock {\em Neuroimage}, 40(3):1064, 2008.
+
+\bibitem{joudaki12}
+Amir Joudaki, Niloufar Salehi, Mahdi Jalili, and Maria~G Knyazeva.
+\newblock Eeg-based functional brain networks: does the network size matter?
+\newblock {\em PloS one}, 7(4):e35673, 2012.
+
+\bibitem{koshino05}
+Hideya Koshino, Patricia~A Carpenter, Nancy~J Minshew, Vladimir~L Cherkassky,
+  Timothy~A Keller, and Marcel~Adam Just.
+\newblock Functional connectivity in an fmri working memory task in
+  high-functioning autism.
+\newblock {\em Neuroimage}, 24(3):810--821, 2005.
+
+\bibitem{lerch06}
+Jason~P Lerch, Keith Worsley, W~Philip Shaw, Deanna~K Greenstein, Rhoshel~K
+  Lenroot, Jay Giedd, and Alan~C Evans.
+\newblock Mapping anatomical correlations across cerebral cortex (macacc) using
+  cortical thickness from mri.
+\newblock {\em Neuroimage}, 31(3):993--1003, 2006.
+
+\bibitem{li12}
+Xin Li, Douglas~S Stones, Haidong Wang, Hualiang Deng, Xiaoguang Liu, and Gang
+  Wang.
+\newblock Netmode: Network motif detection without nauty.
+\newblock {\em PloS one}, 7(12):e50093, 2012.
+
+\bibitem{lowe98}
+MJ~Lowe, BJ~Mock, and JA~Sorenson.
+\newblock Functional connectivity in single and multislice echoplanar imaging
+  using resting-state fluctuations.
+\newblock {\em Neuroimage}, 7(2):119--132, 1998.
+
+\bibitem{marchetti11}
+Alberto Marchetti-Spaccamela and Michael Segal.
+\newblock {\em Theory and practice of algorithms in (computer) systems: first
+  international icst conference, tapas 2011, rome, italy, april 18-20, 2011,
+  proceedings}, volume 6595.
+\newblock Springer, 2011.
+
+\bibitem{mckay81}
+Brendan~D McKay.
+\newblock Practical graph isomorphism.
+\newblock 1981.
+
+\bibitem{mckay13}
+Brendan~D McKay and Adolfo Piperno.
+\newblock Practical graph isomorphism, ii.
+\newblock {\em arXiv preprint arXiv:1301.1493}, 2013.
+
+\bibitem{ribeiro11}
+P~Ribeiro.
+\newblock {\em Efficient and Scalable Algorithms for Network Motifs Discovery}.
+\newblock PhD thesis, PhD thesis, University of Porto, 2011.
+
+\bibitem{rissman04}
+Jesse Rissman, Adam Gazzaley, and Mark D'Esposito.
+\newblock Measuring functional connectivity during distinct stages of a
+  cognitive task.
+\newblock {\em Neuroimage}, 23(2):752--763, 2004.
+
+\bibitem{rubinov10}
+Mikail Rubinov and Olaf Sporns.
+\newblock Complex network measures of brain connectivity: uses and
+  interpretations.
+\newblock {\em Neuroimage}, 52(3):1059--1069, 2010.
+
+\bibitem{sanz10}
+Ernesto~J Sanz-Arigita, Menno~M Schoonheim, Jessica~S Damoiseaux, Serge~ARB
+  Rombouts, Erik Maris, Frederik Barkhof, Philip Scheltens, and Cornelis~J
+  Stam.
+\newblock Loss of ‘small-world’networks in alzheimer's disease: graph
+  analysis of fmri resting-state functional connectivity.
+\newblock {\em PloS one}, 5(11):e13788, 2010.
+
+\bibitem{sporns10}
+Olaf Sporns.
+\newblock {\em Networks of the Brain}.
+\newblock MIT Press, 2010.
+
+\bibitem{sporns04}
+Olaf Sporns and Rolf K{\"o}tter.
+\newblock Motifs in brain networks.
+\newblock {\em PLoS biology}, 2(11):e369, 2004.
+
+\bibitem{stam09}
+CJ~Stam, W~De~Haan, A~Daffertshofer, BF~Jones, I~Manshanden, AM~van~Cappellen
+  van Walsum, T~Montez, JPA Verbunt, JC~De~Munck, BW~Van~Dijk, et~al.
+\newblock Graph theoretical analysis of magnetoencephalographic functional
+  connectivity in alzheimer's disease.
+\newblock {\em Brain}, 132(1):213--224, 2009.
+
+\bibitem{van10}
+Martijn~P Van Den~Heuvel and Hilleke~E Hulshoff~Pol.
+\newblock Exploring the brain network: a review on resting-state fmri
+  functional connectivity.
+\newblock {\em European Neuropsychopharmacology}, 20(8):519--534, 2010.
+
+\bibitem{varshney11}
+Lav~R Varshney, Beth~L Chen, Eric Paniagua, David~H Hall, and Dmitri~B
+  Chklovskii.
+\newblock Structural properties of the caenorhabditis elegans neuronal network.
+\newblock {\em PLoS computational biology}, 7(2):e1001066, 2011.
+
+\bibitem{wang09}
+Liang Wang, Chaozhe Zhu, Yong He, Yufeng Zang, QingJiu Cao, Han Zhang, Qiuhai
+  Zhong, and Yufeng Wang.
+\newblock Altered small-world brain functional networks in children with
+  attention-deficit/hyperactivity disorder.
+\newblock {\em Human brain mapping}, 30(2):638--649, 2009.
+
+\bibitem{watts98}
+Duncan~J Watts and Steven~H Strogatz.
+\newblock Collective dynamics of ‘small-world’networks.
+\newblock {\em nature}, 393(6684):440--442, 1998.
+
+\bibitem{white86}
+John~G White, Eileen Southgate, J~Nichol Thomson, and Sydney Brenner.
+\newblock The structure of the nervous system of the nematode caenorhabditis
+  elegans.
+\newblock {\em Philosophical Transactions of the Royal Society of London. B,
+  Biological Sciences}, 314(1165):1--340, 1986.
+
+\bibitem{zhao12}
+Xiaohu Zhao, Yong Liu, Xiangbin Wang, Bing Liu, Qian Xi, Qihao Guo, Hong Jiang,
+  Tianzi Jiang, and Peijun Wang.
+\newblock Disrupted small-world brain networks in moderate alzheimer's disease:
+  a resting-state fmri study.
+\newblock {\em PLoS One}, 7(3):e33540, 2012.
+
+\end{thebibliography}

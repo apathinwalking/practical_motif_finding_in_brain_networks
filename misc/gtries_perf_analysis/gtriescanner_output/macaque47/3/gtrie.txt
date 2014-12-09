@@ -1,0 +1,80 @@
+gtrieScanner Results
+------------------------------------------
+General Information
+
+Start of Computation: 00h27m28s 08/04/2013
+End of Computation: 00h27m29s 08/04/2013
+
+Subgraph Size: 3
+Graph File: "macaque47-el.csv"
+Directed: YES
+Nr Nodes: 47
+Nr Edges: 505
+
+Method: GTRIE with file containing complete g-trie
+Different Types of Subgraphs Found [Original Network]: 13
+Subgraph Occurrences Found [Original Network]: 3099
+Time for computing census on original network: 0.001267s
+Average time for census on random network: 0.001259s
+
+Number of random networks: 100
+Random seed: 1365395248
+Exchanges per edge: 3
+Number of tries per exchange: 10
+------------------------------------------
+Motif Analysis Results
+
+Graph   Org_Freq |  Z-score |    Rnd_Avg +/-    Rnd_Dev
+
+011
+101
+110          288 |    30.33 |      33.99 +/-       8.37
+
+011
+100
+100          721 |    15.47 |     194.19 +/-      34.05
+
+011
+101
+100          339 |     5.66 |     230.82 +/-      19.10
+
+010
+100
+100          587 |    -3.28 |     722.48 +/-      41.24
+
+011
+100
+000          484 |    -4.17 |     640.89 +/-      37.63
+
+010
+100
+110          101 |    -4.54 |     153.32 +/-      11.53
+
+001
+100
+010            6 |    -6.54 |     152.76 +/-      22.43
+
+011
+001
+000           41 |    -7.02 |     430.61 +/-      55.52
+
+011
+101
+000           51 |    -7.53 |     145.01 +/-      12.48
+
+011
+000
+000           95 |   -12.49 |     574.10 +/-      38.37
+
+000
+100
+100          133 |   -13.18 |     675.20 +/-      41.15
+
+001
+100
+000          189 |   -13.28 |    1270.28 +/-      81.41
+
+011
+100
+010           64 |   -13.54 |     303.26 +/-      17.67
+

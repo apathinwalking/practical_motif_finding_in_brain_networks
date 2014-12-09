@@ -1,0 +1,1 @@
+This folder only contains the gtriescanner output for the 15% threshold to conserve space. The full output contained a folder like the one here for each threshold for 3 node motifs and 4 node motifs.

@@ -1,0 +1,1023 @@
+% This file was created with JabRef 2.7b.
+% Encoding: UTF8
+
+@ARTICLE{achad07,
+  author = {Achard, Sophie and Bullmore, Ed},
+  title = {Efficiency and cost of economical brain functional networks},
+  journal = {PLoS computational biology},
+  year = {2007},
+  volume = {3},
+  pages = {e17},
+  number = {2},
+  file = {achad07.pdf:achad07.pdf:PDF},
+  publisher = {Public Library of Science}
+}
+
+@ARTICLE{nalon08,
+  author = {Alon, Noga and Dao, Phuong and Hajirasouliha, Iman and Hormozdiari,
+	Fereydoun and Sahinalp, S Cenk},
+  title = {Biomolecular network motif counting and discovery by color coding},
+  journal = {Bioinformatics},
+  year = {2008},
+  volume = {24},
+  pages = {i241--i249},
+  number = {13},
+  __markedentry = {[em-2091:1]},
+  file = {nalon08.pdf:nalon08.pdf:PDF},
+  publisher = {Oxford Univ Press}
+}
+
+@ARTICLE{alon07,
+  author = {Alon, Uri},
+  title = {Network motifs: theory and experimental approaches},
+  journal = {Nature Reviews Genetics},
+  year = {2007},
+  volume = {8},
+  pages = {450--461},
+  number = {6},
+  __markedentry = {[em-2091:1]},
+  file = {alon07.pdf:alon07.pdf:PDF},
+  publisher = {Nature Publishing Group}
+}
+
+@BOOK{alon06,
+  title = {An introduction to systems biology: design principles of biological
+	circuits},
+  publisher = {Chapman \& Hall/CRC},
+  year = {2006},
+  author = {Alon, Uri},
+  volume = {10},
+  __markedentry = {[em-2091:1]}
+}
+
+@ARTICLE{anderson11,
+  author = {Anderson, James R and Jones, Bryan W and Watt, Carl B and Shaw, Margaret
+	V and Yang, Jia-Hui and DeMill, David and Lauritzen, James S and
+	Lin, Yanhua and Rapp, Kevin D and Mastronarde, David and others},
+  title = {Exploring the retinal connectome},
+  journal = {Molecular vision},
+  year = {2011},
+  volume = {17},
+  pages = {355},
+  __markedentry = {[em-2091:1]},
+  file = {anderson11.pdf:anderson11.pdf:PDF},
+  publisher = {Emory University}
+}
+
+@INPROCEEDINGS{babai83,
+  author = {Babai, L{\'a}szl{\'o} and Luks, Eugene M},
+  title = {Canonical labeling of graphs},
+  booktitle = {Proceedings of the fifteenth annual ACM symposium on Theory of computing},
+  year = {1983},
+  pages = {171--183},
+  organization = {ACM},
+  __markedentry = {[em-2091:1]},
+  file = {babai83.pdf:babai83.pdf:PDF}
+}
+
+@ARTICLE{bassett06,
+  author = {Bassett, Danielle Smith and Bullmore, ED},
+  title = {Small-world brain networks},
+  journal = {The neuroscientist},
+  year = {2006},
+  volume = {12},
+  pages = {512--523},
+  number = {6},
+  __markedentry = {[em-2091:1]},
+  file = {bassett06.pdf:bassett06.pdf:PDF},
+  publisher = {Sage Publications}
+}
+
+@ARTICLE{biswal2010,
+  author = {Biswal, Bharat B and Mennes, Maarten and Zuo, Xi-Nian and Gohel,
+	Suril and Kelly, Clare and Smith, Steve M and Beckmann, Christian
+	F and Adelstein, Jonathan S and Buckner, Randy L and Colcombe, Stan
+	and others},
+  title = {Toward discovery science of human brain function},
+  journal = {Proceedings of the National Academy of Sciences},
+  year = {2010},
+  volume = {107},
+  pages = {4734--4739},
+  number = {10},
+  publisher = {National Acad Sciences}
+}
+
+@ARTICLE{bressler10,
+  author = {Bressler, Steven L and Menon, Vinod},
+  title = {Large-scale brain networks in cognition: emerging methods and principles},
+  journal = {Trends in cognitive sciences},
+  year = {2010},
+  volume = {14},
+  pages = {277--290},
+  number = {6},
+  __markedentry = {[em-2091:2]},
+  file = {bressler10.pdf:bressler10.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{brown12,
+  author = {Brown, Jesse A and Rudie, Jeffrey D and Bandrowski, Anita and Van
+	Horn, John D and Bookheimer, Susan Y},
+  title = {The UCLA multimodal connectivity database: a web-based platform for
+	brain connectivity matrix sharing and analysis},
+  journal = {Frontiers in neuroinformatics},
+  year = {2012},
+  volume = {6},
+  __markedentry = {[em-2091:2]},
+  file = {brown12.pdf:brown12.pdf:PDF},
+  publisher = {Frontiers Media SA}
+}
+
+@ARTICLE{bullmore09,
+  author = {Bullmore, Ed and Sporns, Olaf},
+  title = {Complex brain networks: graph theoretical analysis of structural
+	and functional systems},
+  journal = {Nature Reviews Neuroscience},
+  year = {2009},
+  volume = {10},
+  pages = {186--198},
+  number = {3},
+  file = {bullmore09.pdf:bullmore09.pdf:PDF},
+  publisher = {Nature Publishing Group}
+}
+
+@ARTICLE{ciriello08,
+  author = {Ciriello, Giovanni and Guerra, Concettina},
+  title = {A review on models and algorithms for motif discovery in protein--protein
+	interaction networks},
+  journal = {Briefings in functional genomics \& proteomics},
+  year = {2008},
+  volume = {7},
+  pages = {147--156},
+  number = {2},
+  file = {ciriello08.pdf:ciriello08.pdf:PDF},
+  publisher = {Oxford University Press}
+}
+
+@ARTICLE{daducci12,
+  author = {Daducci, Alessandro and Gerhard, Stephan and Griffa, Alessandra and
+	Lemkaddem, Alia and Cammoun, Leila and Gigandet, Xavier and Meuli,
+	Reto and Hagmann, Patric and Thiran, Jean-Philippe},
+  title = {The Connectome Mapper: an open-source processing pipeline to map
+	connectomes with MRI},
+  journal = {PloS one},
+  year = {2012},
+  volume = {7},
+  pages = {e48121},
+  number = {12},
+  file = {daducci12.pdf:daducci12.pdf:PDF},
+  publisher = {Public Library of Science}
+}
+
+@INPROCEEDINGS{darga04,
+  author = {Darga, Paul T and Liffiton, Mark H and Sakallah, Karem A and Markov,
+	Igor L},
+  title = {Exploiting structure in symmetry detection for CNF},
+  booktitle = {Proceedings of the 41st annual Design Automation Conference},
+  year = {2004},
+  pages = {530--534},
+  organization = {ACM},
+  file = {darga04.pdf:darga04.pdf:PDF}
+}
+
+@INPROCEEDINGS{darga08,
+  author = {Darga, Paul T and Sakallah, Karem A and Markov, Igor L},
+  title = {Faster symmetry discovery using sparsity of symmetries},
+  booktitle = {Proceedings of the 45th annual Design Automation Conference},
+  year = {2008},
+  pages = {149--154},
+  organization = {ACM},
+  file = {darga08.pdf:darga08.pdf:PDF}
+}
+
+@ARTICLE{deuker09,
+  author = {Deuker, Lorena and Bullmore, Edward T and Smith, Marie and Christensen,
+	Soren and Nathan, Pradeep J and Rockstroh, Brigitte and Bassett,
+	Danielle S and others},
+  title = {Reproducibility of graph metrics of human brain functional networks},
+  journal = {Neuroimage},
+  year = {2009},
+  volume = {47},
+  pages = {1460--1468},
+  number = {4},
+  publisher = {Elsevier Science}
+}
+
+@ARTICLE{echtermeyer11,
+  author = {Echtermeyer, Christoph and da Fontoura Costa, Luciano and Rodrigues,
+	Francisco A and Kaiser, Marcus},
+  title = {Automatic network fingerprinting through single-node motifs},
+  journal = {PloS one},
+  year = {2011},
+  volume = {6},
+  pages = {e15765},
+  number = {1},
+  publisher = {Public Library of Science}
+}
+
+@ARTICLE{eguiluz05,
+  author = {Eguiluz, Victor M and Chialvo, Dante R and Cecchi, Guillermo A and
+	Baliki, Marwan and Apkarian, A Vania},
+  title = {Scale-free brain functional networks},
+  journal = {Physical review letters},
+  year = {2005},
+  volume = {94},
+  pages = {018102},
+  number = {1},
+  file = {eguiluz05.pdf:eguiluz05.pdf:PDF},
+  publisher = {APS}
+}
+
+@ARTICLE{felleman91,
+  author = {Felleman, Daniel J and Van Essen, David C},
+  title = {Distributed hierarchical processing in the primate cerebral cortex},
+  journal = {Cerebral cortex},
+  year = {1991},
+  volume = {1},
+  pages = {1--47},
+  number = {1},
+  file = {felleman91.pdf:felleman91.pdf:PDF},
+  publisher = {Oxford Univ Press}
+}
+
+@INPROCEEDINGS{foggia01,
+  author = {Foggia, Pasquale and Sansone, Carlo and Vento, Mario},
+  title = {A performance comparison of five algorithms for graph isomorphism},
+  booktitle = {Proceedings of the 3rd IAPR TC-15 Workshop on Graph-based Representations
+	in Pattern Recognition},
+  year = {2001},
+  pages = {188--199},
+  file = {foggia01.pdf:foggia01.pdf:PDF}
+}
+
+@ARTICLE{friston93,
+  author = {Friston, KJ and Frith, CD and Liddle, PF and Frackowiak, RSJ and
+	others},
+  title = {Functional connectivity: the principal-component analysis of large
+	(PET) data sets},
+  journal = {Journal of cerebral blood flow and metabolism},
+  year = {1993},
+  volume = {13},
+  pages = {5--5},
+  publisher = {RAVEN PRESS PUBLISHERS}
+}
+
+@ARTICLE{friston94,
+  author = {Friston, Karl J},
+  title = {Functional and effective connectivity in neuroimaging: a synthesis},
+  journal = {Human brain mapping},
+  year = {1994},
+  volume = {2},
+  pages = {56--78},
+  number = {1-2},
+  file = {friston94.pdf:friston94.pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
+@ARTICLE{gong2009age,
+  author = {Gong, Gaolang and Rosa-Neto, Pedro and Carbonell, Felix and Chen,
+	Zhang J and He, Yong and Evans, Alan C},
+  title = {Age-and gender-related differences in the cortical anatomical network},
+  journal = {The Journal of Neuroscience},
+  year = {2009},
+  volume = {29},
+  pages = {15684--15693},
+  number = {50},
+  publisher = {Soc Neuroscience}
+}
+
+@ARTICLE{hartke09,
+  author = {Hartke, Stephen G and Radcliffe, AJ},
+  title = {Mckay’s canonical graph labeling algorithm},
+  journal = {Communicating Mathematics},
+  year = {2009},
+  volume = {479},
+  pages = {99--111},
+  file = {hartke09.pdf:hartke09.pdf:PDF}
+}
+
+@ARTICLE{he10,
+  author = {He, Yong and Evans, Alan},
+  title = {Graph theoretical modeling of brain connectivity},
+  journal = {Current opinion in neurology},
+  year = {2010},
+  volume = {23},
+  pages = {341--350},
+  number = {4},
+  file = {he10.pdf:he10.pdf:PDF},
+  publisher = {LWW}
+}
+
+@ARTICLE{honey07,
+  author = {Honey, Christopher J and K{\"o}tter, Rolf and Breakspear, Michael
+	and Sporns, Olaf},
+  title = {Network structure of cerebral cortex shapes functional connectivity
+	on multiple time scales},
+  journal = {Proceedings of the National Academy of Sciences},
+  year = {2007},
+  volume = {104},
+  pages = {10240--10245},
+  number = {24},
+  file = {honey07.pdf:honey07.pdf:PDF},
+  publisher = {National Acad Sciences}
+}
+
+@ARTICLE{iturria07,
+  author = {Iturria-Medina, Y and Canales-Rodriguez, EJ and Melie-Garcia, L and
+	Valdes-Hernandez, PA and Martinez-Montes, E and Aleman-Gomez, Y and
+	S{\'a}nchez-Bornot, JM},
+  title = {Characterizing brain anatomical connections using diffusion weighted
+	MRI and graph theory},
+  journal = {Neuroimage},
+  year = {2007},
+  volume = {36},
+  pages = {645--660},
+  number = {3},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{iturria08,
+  author = {Iturria-Medina, Yasser and Sotero, Roberto C and Canales-Rodr{\'\i}guez,
+	Erick J and Alem{\'a}n-G{\'o}mez, Yasser and Melie-Garc{\'\i}a, Lester
+	and others},
+  title = {Studying the human brain anatomical network via diffusion-weighted
+	MRI and Graph Theory.},
+  journal = {Neuroimage},
+  year = {2008},
+  volume = {40},
+  pages = {1064},
+  number = {3}
+}
+
+@ARTICLE{joudaki12,
+  author = {Joudaki, Amir and Salehi, Niloufar and Jalili, Mahdi and Knyazeva,
+	Maria G},
+  title = {EEG-based functional brain networks: does the network size matter?},
+  journal = {PloS one},
+  year = {2012},
+  volume = {7},
+  pages = {e35673},
+  number = {4},
+  publisher = {Public Library of Science}
+}
+
+@MISC{bliss_src,
+  author = {Junttila, Tommi and Kaski, Petteri},
+  title = {bliss: A Tool for Computing Automorphism Groups and Canonical Labelings
+	of Graphs},
+  month = {February},
+  year = {2007},
+  note = {version 0.72},
+  url = {http://www.tcs.hut.fi/Software/bliss/}
+}
+
+@INPROCEEDINGS{junttila07,
+  author = {Junttila, Tommi and Kaski, Petteri},
+  title = {Engineering an efficient canonical labeling tool for large and sparse
+	graphs},
+  booktitle = {Proceedings of the Ninth Workshop on Algorithm Engineering and Experiments
+	and the Fourth Workshop on Analytic Algorithms and Combinatorics},
+  year = {2007},
+  pages = {135--149},
+  file = {junttila07.pdf:junttila07.pdf:PDF}
+}
+
+@ARTICLE{kaiser11,
+  author = {Kaiser, Marcus},
+  title = {A tutorial in connectome analysis: topological and spatial features
+	of brain networks},
+  journal = {Neuroimage},
+  year = {2011},
+  volume = {57},
+  pages = {892--907},
+  number = {3},
+  file = {kaiser11.pdf:kaiser11.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{kashtan04,
+  author = {Kashtan, Nadav and Itzkovitz, Shalev and Milo, Ron and Alon, Uri},
+  title = {Efficient sampling algorithm for estimating subgraph concentrations
+	and detecting network motifs},
+  journal = {Bioinformatics},
+  year = {2004},
+  volume = {20},
+  pages = {1746--1758},
+  number = {11},
+  file = {kashtan04.pdf:kashtan04.pdf:PDF},
+  publisher = {Oxford Univ Press}
+}
+
+@ARTICLE{koshino05,
+  author = {Koshino, Hideya and Carpenter, Patricia A and Minshew, Nancy J and
+	Cherkassky, Vladimir L and Keller, Timothy A and Just, Marcel Adam},
+  title = {Functional connectivity in an fMRI working memory task in high-functioning
+	autism},
+  journal = {Neuroimage},
+  year = {2005},
+  volume = {24},
+  pages = {810--821},
+  number = {3},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{lancichinetti09,
+  author = {Lancichinetti, Andrea and Fortunato, Santo},
+  title = {Community detection algorithms: A comparative analysis},
+  journal = {Physical review E},
+  year = {2009},
+  volume = {80},
+  pages = {056117},
+  number = {5},
+  file = {lancichinetti09.pdf:lancichinetti09.pdf:PDF},
+  publisher = {APS}
+}
+
+@ARTICLE{lancichinetti08,
+  author = {Lancichinetti, Andrea and Fortunato, Santo and Radicchi, Filippo},
+  title = {Benchmark graphs for testing community detection algorithms},
+  journal = {Physical Review E},
+  year = {2008},
+  volume = {78},
+  pages = {046110},
+  number = {4},
+  file = {lancichinetti08.pdf:lancichinetti08.pdf:PDF},
+  publisher = {APS}
+}
+
+@ARTICLE{latora01,
+  author = {Latora, Vito and Marchiori, Massimo},
+  title = {Efficient behavior of small-world networks},
+  journal = {Physical review letters},
+  year = {2001},
+  volume = {87},
+  pages = {198701},
+  number = {19},
+  file = {latora01.pdf:latora01.pdf:PDF},
+  publisher = {APS}
+}
+
+@ARTICLE{lerch06,
+  author = {Lerch, Jason P and Worsley, Keith and Shaw, W Philip and Greenstein,
+	Deanna K and Lenroot, Rhoshel K and Giedd, Jay and Evans, Alan C},
+  title = {Mapping anatomical correlations across cerebral cortex (MACACC) using
+	cortical thickness from MRI},
+  journal = {Neuroimage},
+  year = {2006},
+  volume = {31},
+  pages = {993--1003},
+  number = {3},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{li12,
+  author = {Li, Xin and Stones, Douglas S and Wang, Haidong and Deng, Hualiang
+	and Liu, Xiaoguang and Wang, Gang},
+  title = {NetMODE: Network Motif Detection without Nauty},
+  journal = {PloS one},
+  year = {2012},
+  volume = {7},
+  pages = {e50093},
+  number = {12},
+  file = {li12.pdf:li12.pdf:PDF},
+  publisher = {Public Library of Science}
+}
+
+@ARTICLE{liao11,
+  author = {Liao, Wei and Ding, Jurong and Marinazzo, Daniele and Xu, Qiang and
+	Wang, Zhengge and Yuan, Cuiping and Zhang, Zhiqiang and Lu, Guangming
+	and Chen, Huafu},
+  title = {Small-world directed networks in the human brain: multivariate Granger
+	causality analysis of resting-state fMRI},
+  journal = {Neuroimage},
+  year = {2011},
+  volume = {54},
+  pages = {2683--2694},
+  number = {4},
+  file = {liao11.pdf:liao11.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{liu08,
+  author = {Liu, Yong and Liang, Meng and Zhou, Yuan and He, Yong and Hao, Yihui
+	and Song, Ming and Yu, Chunshui and Liu, Haihong and Liu, Zhening
+	and Jiang, Tianzi},
+  title = {Disrupted small-world networks in schizophrenia},
+  journal = {Brain},
+  year = {2008},
+  volume = {131},
+  pages = {945--961},
+  number = {4},
+  publisher = {Oxford Univ Press}
+}
+
+@ARTICLE{lizier11,
+  author = {Lizier, Joseph T and Heinzle, Jakob and Horstmann, Annette and Haynes,
+	John-Dylan and Prokopenko, Mikhail},
+  title = {Multivariate information-theoretic measures reveal directed information
+	structure and task relevant changes in fMRI connectivity},
+  journal = {Journal of computational neuroscience},
+  year = {2011},
+  volume = {30},
+  pages = {85--107},
+  number = {1},
+  publisher = {Springer}
+}
+
+@ARTICLE{lowe98,
+  author = {Lowe, MJ and Mock, BJ and Sorenson, JA},
+  title = {Functional connectivity in single and multislice echoplanar imaging
+	using resting-state fluctuations},
+  journal = {Neuroimage},
+  year = {1998},
+  volume = {7},
+  pages = {119--132},
+  number = {2},
+  publisher = {Elsevier}
+}
+
+@BOOK{marchetti11,
+  title = {Theory and practice of algorithms in (computer) systems: first international
+	icst conference, tapas 2011, rome, italy, april 18-20, 2011, proceedings},
+  publisher = {Springer},
+  year = {2011},
+  author = {Marchetti-Spaccamela, Alberto and Segal, Michael},
+  volume = {6595}
+}
+
+@ARTICLE{masoudi12,
+  author = {Masoudi-Nejad, A and Schreiber, F and Kashani, ZRM},
+  title = {Building blocks of biological networks: a review on major network
+	motif discovery algorithms},
+  journal = {IET systems biology},
+  year = {2012},
+  volume = {6},
+  pages = {164--174},
+  number = {5},
+  file = {masoudi12.pdf:masoudi12.pdf:PDF},
+  publisher = {IET}
+}
+
+@ARTICLE{mckay81,
+  author = {McKay, Brendan D},
+  title = {Practical graph isomorphism},
+  year = {1981},
+  file = {mckay81.pdf:mckay81.pdf:PDF},
+  publisher = {Department of Computer Science, Vanderbilt University}
+}
+
+@ARTICLE{mckay13,
+  author = {McKay, Brendan D and Piperno, Adolfo},
+  title = {Practical graph isomorphism, II},
+  journal = {arXiv preprint arXiv:1301.1493},
+  year = {2013},
+  file = {mckay13.pdf:mckay13.pdf:PDF}
+}
+
+@ARTICLE{meunier10,
+  author = {Meunier, David and Lambiotte, Renaud and Bullmore, Edward T},
+  title = {Modular and hierarchically modular organization of brain networks},
+  journal = {Frontiers in neuroscience},
+  year = {2010},
+  volume = {4},
+  file = {meunier10.pdf:meunier10.pdf:PDF},
+  publisher = {Frontiers Research Foundation}
+}
+
+@ARTICLE{miyazaki97,
+  author = {Miyazaki, Takunari},
+  title = {The complexity of McKay’s canonical labeling algorithm},
+  journal = {Groups and Computation II, DIMACS Series on Discrete Mathematics
+	and Theoretical Computer Science},
+  year = {1997},
+  volume = {28},
+  pages = {239--256},
+  file = {miyazaki97.pdf:miyazaki97.pdf:PDF}
+}
+
+@ARTICLE{newman06,
+  author = {Newman, Mark EJ},
+  title = {Modularity and community structure in networks},
+  journal = {Proceedings of the National Academy of Sciences},
+  year = {2006},
+  volume = {103},
+  pages = {8577--8582},
+  number = {23},
+  file = {newman06.pdf:newman06.pdf:PDF},
+  publisher = {National Acad Sciences}
+}
+
+@ARTICLE{onnela05,
+  author = {Onnela, Jukka-Pekka and Saram{\"a}ki, Jari and Kert{\'e}sz, J{\'a}nos
+	and Kaski, Kimmo},
+  title = {Intensity and coherence of motifs in weighted complex networks},
+  journal = {Physical Review E},
+  year = {2005},
+  volume = {71},
+  pages = {065103},
+  number = {6},
+  file = {onnela05.pdf:onnela05.pdf:PDF},
+  publisher = {APS}
+}
+
+@ARTICLE{porumbel11,
+  author = {Porumbel, Daniel Cosmin},
+  title = {Isomorphism testing via polynomial-time graph extensions},
+  journal = {Journal of Mathematical Modelling and Algorithms},
+  year = {2011},
+  volume = {10},
+  pages = {119--143},
+  number = {2},
+  file = {porumbel11.pdf:porumbel11.pdf:PDF},
+  publisher = {Springer}
+}
+
+@MISC{gtriescanner_src,
+  author = {Pedro Ribeiro},
+  title = {gtrieScanner - Quick Discovery of Network Motifs},
+  month = {February},
+  year = {2012},
+  note = {version 0.1},
+  url = {http://www.dcc.fc.up.pt/gtries/}
+}
+
+@PHDTHESIS{ribeiro11,
+  author = {Ribeiro, P},
+  title = {Efficient and Scalable Algorithms for Network Motifs Discovery},
+  school = {PhD thesis, University of Porto},
+  year = {2011},
+  file = {ribeiro11.pdf:ribeiro11.pdf:PDF}
+}
+
+@INPROCEEDINGS{ribeiro12,
+  author = {Ribeiro, Pedro and Silva, Fernando},
+  title = {Querying subgraph sets with g-tries},
+  booktitle = {Proceedings of the 2nd ACM SIGMOD Workshop on Databases and Social
+	Networks},
+  year = {2012},
+  pages = {25--30},
+  organization = {ACM},
+  file = {ribeiro12.pdf:ribeiro12.pdf:PDF}
+}
+
+@INPROCEEDINGS{ribeiro10,
+  author = {Ribeiro, Pedro and Silva, Fernando},
+  title = {G-tries: an efficient data structure for discovering network motifs},
+  booktitle = {Proceedings of the 2010 ACM Symposium on Applied Computing},
+  year = {2010},
+  pages = {1559--1566},
+  organization = {ACM},
+  file = {ribeiro10.pdf:ribeiro10.pdf:PDF}
+}
+
+@ARTICLE{rissman04,
+  author = {Rissman, Jesse and Gazzaley, Adam and D'Esposito, Mark},
+  title = {Measuring functional connectivity during distinct stages of a cognitive
+	task},
+  journal = {Neuroimage},
+  year = {2004},
+  volume = {23},
+  pages = {752--763},
+  number = {2},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{rubinov09,
+  author = {Rubinov, Mikail and Knock, Stuart A and Stam, Cornelis J and Micheloyannis,
+	Sifis and Harris, Anthony WF and Williams, Leanne M and Breakspear,
+	Michael},
+  title = {Small-world properties of nonlinear brain activity in schizophrenia},
+  journal = {Human brain mapping},
+  year = {2009},
+  volume = {30},
+  pages = {403--416},
+  number = {2},
+  publisher = {Wiley Online Library}
+}
+
+@ARTICLE{rubinov10,
+  author = {Rubinov, Mikail and Sporns, Olaf},
+  title = {Complex network measures of brain connectivity: uses and interpretations},
+  journal = {Neuroimage},
+  year = {2010},
+  volume = {52},
+  pages = {1059--1069},
+  number = {3},
+  file = {rubinov10.pdf:rubinov10.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{sanz10,
+  author = {Sanz-Arigita, Ernesto J and Schoonheim, Menno M and Damoiseaux, Jessica
+	S and Rombouts, Serge ARB and Maris, Erik and Barkhof, Frederik and
+	Scheltens, Philip and Stam, Cornelis J},
+  title = {Loss of ‘small-world’networks in Alzheimer's disease: graph analysis
+	of FMRI resting-state functional connectivity},
+  journal = {PloS one},
+  year = {2010},
+  volume = {5},
+  pages = {e13788},
+  number = {11},
+  publisher = {Public Library of Science}
+}
+
+@ARTICLE{scannell99,
+  author = {Scannell, JW and Burns, GAPC and Hilgetag, CC and O'Neil, MA and
+	Young, Malcolm P},
+  title = {The connectional organization of the cortico-thalamic system of the
+	cat},
+  journal = {Cerebral Cortex},
+  year = {1999},
+  volume = {9},
+  pages = {277--299},
+  number = {3},
+  file = {scannell99.pdf:scannell99.pdf:PDF},
+  publisher = {Oxford Univ Press}
+}
+
+@ARTICLE{simpson11,
+  author = {Simpson, Sean L and Hayasaka, Satoru and Laurienti, Paul J},
+  title = {Exponential random graph modeling for complex brain networks},
+  journal = {PloS one},
+  year = {2011},
+  volume = {6},
+  pages = {e20039},
+  number = {5},
+  publisher = {Public Library of Science}
+}
+
+@BOOK{sporns10,
+  title = {Networks of the Brain},
+  publisher = {MIT Press},
+  year = {2010},
+  author = {Sporns, Olaf},
+  file = {sporns10.pdf:sporns10.pdf:PDF}
+}
+
+@ARTICLE{sporns04,
+  author = {Sporns, Olaf and K{\"o}tter, Rolf},
+  title = {Motifs in brain networks},
+  journal = {PLoS biology},
+  year = {2004},
+  volume = {2},
+  pages = {e369},
+  number = {11},
+  file = {sporns04.pdf:sporns04.pdf:PDF},
+  publisher = {Public Library of Science}
+}
+
+@ARTICLE{sporns04b,
+  author = {Sporns, Olaf and Zwi, Jonathan D},
+  title = {The small world of the cerebral cortex},
+  journal = {Neuroinformatics},
+  year = {2004},
+  volume = {2},
+  pages = {145--162},
+  number = {2},
+  file = {sporns04b.pdf:sporns04b.pdf:PDF},
+  publisher = {Springer}
+}
+
+@ARTICLE{srinivasan07,
+  author = {Srinivasan, Ramesh and Winter, William R and Ding, Jian and Nunez,
+	Paul L},
+  title = {EEG and MEG coherence: measures of functional connectivity at distinct
+	spatial scales of neocortical dynamics},
+  journal = {Journal of neuroscience methods},
+  year = {2007},
+  volume = {166},
+  pages = {41--52},
+  number = {1},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{stam09,
+  author = {Stam, CJ and De Haan, W and Daffertshofer, A and Jones, BF and Manshanden,
+	I and van Walsum, AM van Cappellen and Montez, T and Verbunt, JPA
+	and De Munck, JC and Van Dijk, BW and others},
+  title = {Graph theoretical analysis of magnetoencephalographic functional
+	connectivity in Alzheimer's disease},
+  journal = {Brain},
+  year = {2009},
+  volume = {132},
+  pages = {213--224},
+  number = {1},
+  publisher = {Oxford Univ Press}
+}
+
+@ARTICLE{stam12,
+  author = {Stam, CJ and van Straaten, ECW},
+  title = {The organization of physiological brain networks},
+  journal = {Clinical Neurophysiology},
+  year = {2012},
+  volume = {123},
+  pages = {1067--1087},
+  number = {6},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{van10,
+  author = {Van Den Heuvel, Martijn P and Hulshoff Pol, Hilleke E},
+  title = {Exploring the brain network: a review on resting-state fMRI functional
+	connectivity},
+  journal = {European Neuropsychopharmacology},
+  year = {2010},
+  volume = {20},
+  pages = {519--534},
+  number = {8},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{varshney11,
+  author = {Varshney, Lav R and Chen, Beth L and Paniagua, Eric and Hall, David
+	H and Chklovskii, Dmitri B},
+  title = {Structural properties of the Caenorhabditis elegans neuronal network},
+  journal = {PLoS computational biology},
+  year = {2011},
+  volume = {7},
+  pages = {e1001066},
+  number = {2},
+  file = {varshney11.pdf:varshney11.pdf:PDF},
+  publisher = {Public Library of Science}
+}
+
+@ARTICLE{wang12,
+  author = {Wang, Jianxin and Huang, Yuannan and Wu, Fang-Xiang and Pan, Yi},
+  title = {Symmetry compression method for discovering network motifs},
+  journal = {IEEE/ACM Transactions on Computational Biology and Bioinformatics
+	(TCBB)},
+  year = {2012},
+  volume = {9},
+  pages = {1776--1789},
+  number = {6},
+  file = {wang12.pdf:wang12.pdf:PDF},
+  publisher = {IEEE Computer Society Press}
+}
+
+@ARTICLE{wang2009parcellation,
+  author = {Wang, Jinhui and Wang, Liang and Zang, Yufeng and Yang, Hong and
+	Tang, Hehan and Gong, Qiyong and Chen, Zhang and Zhu, Chaozhe and
+	He, Yong},
+  title = {Parcellation-dependent small-world brain functional networks: A resting-state
+	fMRI study},
+  journal = {Human brain mapping},
+  year = {2009},
+  volume = {30},
+  pages = {1511--1523},
+  number = {5},
+  publisher = {Wiley Online Library}
+}
+
+@ARTICLE{wang09,
+  author = {Wang, Liang and Zhu, Chaozhe and He, Yong and Zang, Yufeng and Cao,
+	QingJiu and Zhang, Han and Zhong, Qiuhai and Wang, Yufeng},
+  title = {Altered small-world brain functional networks in children with attention-deficit/hyperactivity
+	disorder},
+  journal = {Human brain mapping},
+  year = {2009},
+  volume = {30},
+  pages = {638--649},
+  number = {2},
+  publisher = {Wiley Online Library}
+}
+
+
+@ARTICLE{watts98,
+  author = {Watts, Duncan J and Strogatz, Steven H},
+  title = {Collective dynamics of ‘small-world’networks},
+  journal = {nature},
+  year = {1998},
+  volume = {393},
+  pages = {440--442},
+  number = {6684},
+  file = {watts98.pdf:watts98.pdf:PDF},
+  publisher = {Nature Publishing Group}
+}
+
+@ARTICLE{wernicke06,
+  author = {Wernicke, Sebastian and Rasche, Florian},
+  title = {FANMOD: a tool for fast network motif detection},
+  journal = {Bioinformatics},
+  year = {2006},
+  volume = {22},
+  pages = {1152--1153},
+  number = {9},
+  file = {wernicke06.pdf:wernicke06.pdf:PDF},
+  publisher = {Oxford Univ Press}
+}
+
+@ARTICLE{white86,
+  author = {White, John G and Southgate, Eileen and Thomson, J Nichol and Brenner,
+	Sydney},
+  title = {The structure of the nervous system of the nematode Caenorhabditis
+	elegans},
+  journal = {Philosophical Transactions of the Royal Society of London. B, Biological
+	Sciences},
+  year = {1986},
+  volume = {314},
+  pages = {1--340},
+  number = {1165},
+  file = {white86.pdf:white86.pdf:PDF},
+  publisher = {The Royal Society}
+}
+
+@ARTICLE{van2011,
+  author = {van Wijk, Bernadette CM and Stam, Cornelis J and Daffertshofer, Andreas},
+  title = {Comparing brain networks of different size and connectivity density
+	using graph theory},
+  journal = {PLoS One},
+  year = {2010},
+  volume = {5},
+  pages = {e13701},
+  number = {10},
+  publisher = {Public Library of Science}
+}
+
+@ARTICLE{wong12,
+  author = {Wong, Elisabeth and Baur, Brittany and Quader, Saad and Huang, Chun-Hsi},
+  title = {Biological network motif detection: principles and practice},
+  journal = {Briefings in bioinformatics},
+  year = {2012},
+  volume = {13},
+  pages = {202--215},
+  number = {2},
+  file = {wong12.pdf:wong12.pdf:PDF},
+  publisher = {Oxford Univ Press}
+}
+
+@ARTICLE{young93,
+  author = {Young, Malcolm P},
+  title = {The organization of neural systems in the primate cerebral cortex},
+  journal = {Proceedings of the Royal Society of London. Series B: Biological
+	Sciences},
+  year = {1993},
+  volume = {252},
+  pages = {13--18},
+  number = {1333},
+  file = {young93.pdf:young93.pdf:PDF},
+  publisher = {The Royal Society}
+}
+
+@ARTICLE{zalesky10,
+  author = {Zalesky, Andrew and Fornito, Alex and Harding, Ian H and Cocchi,
+	Luca and Y{\"u}cel, Murat and Pantelis, Christos and Bullmore, Edward
+	T},
+  title = {Whole-brain anatomical networks: does the choice of nodes matter?},
+  journal = {Neuroimage},
+  year = {2010},
+  volume = {50},
+  pages = {970},
+  number = {3}
+}
+
+@ARTICLE{zhang12,
+  author = {Zhang, Yuanchao and Lin, Lei and Lin, Ching-Po and Zhou, Yuan and
+	Chou, Kun-Hsien and Lo, Chun-Yi and Su, Tung-Ping and Jiang, Tianzi},
+  title = {Abnormal topological organization of structural brain networks in
+	schizophrenia},
+  journal = {Schizophrenia research},
+  year = {2012},
+  file = {zhang12.pdf:zhang12.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{zhang06,
+  author = {Zhang, Zhongzhi and Rong, Lili and Guo, Chonghui},
+  title = {A deterministic small-world network created by edge iterations},
+  journal = {Physica A: Statistical Mechanics and its Applications},
+  year = {2006},
+  volume = {363},
+  pages = {567--572},
+  number = {2},
+  file = {zhang06.pdf:zhang06.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{zhao12,
+  author = {Zhao, Xiaohu and Liu, Yong and Wang, Xiangbin and Liu, Bing and Xi,
+	Qian and Guo, Qihao and Jiang, Hong and Jiang, Tianzi and Wang, Peijun},
+  title = {Disrupted small-world brain networks in moderate Alzheimer's disease:
+	a resting-state FMRI study},
+  journal = {PLoS One},
+  year = {2012},
+  volume = {7},
+  pages = {e33540},
+  number = {3},
+  publisher = {Public Library of Science}
+}
+
+@ARTICLE{zhou09,
+  author = {Zhou, Zhenyu and Ding, Mingzhou and Chen, Yonghong and Wright, Paul
+	and Lu, Zuhong and Liu, Yijun},
+  title = {Detecting directional influence in fMRI connectivity analysis using
+	PCA based Granger causality},
+  journal = {Brain research},
+  year = {2009},
+  volume = {1289},
+  pages = {22},
+  publisher = {NIH Public Access}
+}
+
+@comment{jabref-meta: fileDirectory-em-2091:/home/em-2091/Documents/sc
+hool/smp/sources/text;}
+

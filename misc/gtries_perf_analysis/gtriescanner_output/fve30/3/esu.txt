@@ -1,0 +1,80 @@
+gtrieScanner Results
+------------------------------------------
+General Information
+
+Start of Computation: 00h23m51s 08/04/2013
+End of Computation: 00h23m51s 08/04/2013
+
+Subgraph Size: 3
+Graph File: "fve30-el.csv"
+Directed: YES
+Nr Nodes: 30
+Nr Edges: 311
+
+Method: ESU on original network
+Different Types of Subgraphs Found [Original Network]: 13
+Subgraph Occurrences Found [Original Network]: 1486
+Time for computing census on original network: 0.001790s
+Average time for census on random network: 0.000689s
+
+Number of random networks: 100
+Random seed: 1365395031
+Exchanges per edge: 3
+Number of tries per exchange: 10
+------------------------------------------
+Motif Analysis Results
+
+Graph   Org_Freq |  Z-score |    Rnd_Avg +/-    Rnd_Dev
+
+011
+101
+110          170 |    20.34 |      33.96 +/-       6.69
+
+011
+100
+100          410 |    11.45 |     125.44 +/-      24.86
+
+011
+101
+100          170 |    -0.63 |     177.63 +/-      12.06
+
+011
+100
+000          227 |    -3.63 |     291.78 +/-      17.83
+
+011
+101
+000           49 |    -4.10 |      88.00 +/-       9.50
+
+010
+100
+100          216 |    -4.51 |     297.95 +/-      18.18
+
+001
+100
+010            3 |    -5.09 |      67.87 +/-      12.74
+
+010
+100
+110           40 |    -5.20 |      85.58 +/-       8.76
+
+011
+001
+000           18 |    -6.23 |     200.10 +/-      29.24
+
+000
+100
+100           58 |    -7.70 |     202.19 +/-      18.73
+
+011
+000
+000           30 |    -8.83 |     197.94 +/-      19.02
+
+011
+100
+010           37 |    -9.00 |     176.02 +/-      15.45
+
+001
+100
+000           58 |    -9.99 |     407.18 +/-      34.94
+

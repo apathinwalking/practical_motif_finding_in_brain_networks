@@ -1,0 +1,78 @@
+\documentclass{article}
+
+\usepackage{amsfonts, amsmath, amssymb,color, graphicx, caption}
+
+\title{Practical Motif-Finding in Brain Networks}
+\author{Evan Mahone\\St. Mary's College of Maryland}
+
+\newcommand{\rood}[1]{\textcolor{red}{[#1]}} %for displaying red texts
+
+\begin{document}
+
+\maketitle
+\newpage
+
+\begin{abstract}
+The purpose of the current study was to analyze and improve upon the methodological limits to network motif discovery in brain networks. First, technical details defining brain networks, and their limits are explored. Next, a review of network motif discovery is done. Improvements upon the current best known algorithm are explored, and a new approach to methodology and an algorithm are proposed. Following this a study using the proposed methodology and brain networks of 520 children with and without ADHD is done as proof of concept for the methodology. Finally, the methodology and results are analyzed and the current state of network motif discovery in brain networks is further reviewed. Significant results are found on functional connectivity datasets in the frequency of specific subgraphs between individuals with and without ADHD. Suggestions are made for improvements in methodology and tools used in network motif discovery in brain networks research.
+\end{abstract}
+
+\section{Introduction}
+\input{sect_1_intro.tex}
+%How graph theory has been used in the past 15 years in brain network analysis introduction to the fundamental concepts of this paper: brain networks, graph theory and network motifs. A description of the purpose of the SMP
+%%subsection::Network Motifs
+%%subsection::Purpose --why did I do this SMP?
+
+\section{Terminology}
+\input{sect_2_terms.tex}
+
+\section{Brain Networks}
+\input{sect_3_bnets.tex}
+
+\section{Network Motif Discovery}
+%A description of the current results in network motif discovery. What has been discovered in general, and what discoveries have been made in brain networks? A description of the current problems in network motif discovery. Description of types of algorithms. First a description of Nauty and then bliss.
+%%Subsection:: Network Motifs of the Brain
+%%Subsubsection:: Motifs in Weighted Networks
+%%Subsection:: Network Motif Algorithms
+%%Subsubsection:: The Problem of Motif Discovery
+%%Subsection:: G-Tries
+\input{sect_4_nmotifs.tex}
+
+\section{Graph Isomorphism}
+\input{sect_5_isomorph.tex}
+%An analysis of the use of graph isomorphism algorithms in the G-Tries algorithm. 
+%%Subsection:: Nauty
+%%Subsection:: Current results in graph isomorphism
+%%Subsection:: Bliss
+
+\section{The ReG-Trie Algorithm}
+\input{sect_6_regtrie.tex}
+%Why the algorithm? Why is your approach to network motif discovery on weighted networks better? Description of the algorithm. Expected uses. 
+%%Subsection: Measuring weighted 
+
+\section{Methods}
+\input{sect_7_method.tex}
+%First: a general outline of the methodology. The development of the algorithm is described. Then the process of data collection 
+%%Subsection:ReG-Tries Implementation
+%%Subsection: Data
+%%Subsubsection: 
+
+
+\section{Results}
+\input{sect_8_results.tex}
+
+\section{Discussion}
+\input{sect_9_disc.tex}
+
+\section{Conclusion}
+\input{sect_10_conc.tex}
+%Summarize what was learned. 
+%Summarize the results.
+%Future Plans
+%What I did wrong
+%%Subsection: Improvements to ReG-Tries
+%%Subsection: Reflection on St. Mary's Project
+
+\bibliographystyle{plain}
+\bibliography{bibliography}
+
+\end{document}
