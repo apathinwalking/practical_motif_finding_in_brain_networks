@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<<<<<<< HEAD
+<head>
+    <title>Video Game Engine</title>
+</head>
+</html>
+=======
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Elegaf : A JavaScript Game Framework" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Elegaf</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/apathinwalking/knidoran">View on GitHub</a>
+
+          <h1 id="project_title">KniDoRAn</h1>
+          <h2 id="project_tagline">Knight Domination in R with Simulated Annealing</h2>
+
+          <div id="main_content_wrap" class="outer">
+          <section id="main_content" class="inner">
+          <p> Knight Domination refers to a mathematical chess problem in which it is requested to find a minimum number of Knights, placed on an N-width by N-height chess board, such that each free square on the board is able to be "attacked" by at least one piece. </p>
+          KniDoRAn is a program written in R which uses a simulated annealing algorithm in order to attempt to find the minimum number of knights needed to dominate an NxN board.</p>
+          <p> Minimizing the set of dominating knights is equivalent to <a href="http://home.earthlink.net/~morgenstern/large/center.html">minimizing the over-coverage and spillage</a> (how much each spot on the board is able to be attacked by more than one knight, and how many knights attacks go over the side of the board). As a board gets larger and larger - the amount that spilling contributes is minimal. Thus, we can find an NXN board with minimal coverage to get an estimate of the dominating set of knights for that board. </p>
+          <p> Simulated annealing allows you to decide to keep an "assignment" based on a "heuristic" and a little bit of probability. For KniDoRAn, the "assignment" is the set of knights on the board, and the heuristic is minimal undercoverage - with large weights placed on any configurations with undercoverage (thus not being dominating sets) to avoid their being picked. As simulated annealing goes, a "bad" configuration will be kept at a probability which decreases each iteration according to a cooling function. </p>
+          <p>
+          KniDoRAn can be used successfully in a two steps. In the first part, we start with a board filled with knights, and in each iteration of the algorithm we remove a random knight from the board, picking knights which overcover more of the board. An example of how this part of our algorithm works is shown below on the left for a 20x20 board. We do this for a specified number of runs, and after approaching a point where removing knights more often produces undercoverage - we take the resulting board configuration and run it through our second part. In our second part, during each iteration we generate a successor based on taking one knight and moving it to a random empty space on the board - the resulting board is kept based on the same heuristic and probability (cooling function) as the first part. This second step seems to fine-tune the configuration. An example, which is shown below on the right - and begins with the last board configuration from the instance on the bottom left.</p>
+          <p>Using KniDoRAn, the smallest possible dominating set I could find for a 20x20 board was 80 knights. This differs by 18 from the set described <a href="http://home.earthlink.net/~morgenstern/solution/intro.html">here.</a>. Similar results were found for boards slightly larger, and slightly bigger than 20. After applying the second part, we can take the output again and feed it into an instance of our first part of our algorithm. </p>
+          <img src="images/Rplot1.png" alt="plot1" style="width:45%;height:45%">
+          <img src="images/Rplot2.png" alt="plot2" style="width:45%;height:45%">
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/apathinwalking/elegaf/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/apathinwalking/elegaf/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+       
+  </body>
+</html>
